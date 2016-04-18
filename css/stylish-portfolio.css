@@ -28,6 +28,9 @@ body {
     font-size: 4.5em;
     font-weight: 700;
 }
+.bg-primary {
+    color: #ff00ff;
+}
 
 /* Custom Button Styles */
 
