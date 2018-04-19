@@ -28,7 +28,7 @@ body {
     font-weight: 700;
 }
 .bg-primary {
-    background-color: #ff0999;
+    background-color: rgba(0,128,128);
 }
 
 /* Custom Button Styles */
